@@ -32,3 +32,29 @@ h2 {
 .project-item {
     background-color: yellow;
 }
+
+/*Sidebar*/
+
+.sidebar {
+    width: 370px;
+    background: #E0EBFE;
+}
+
+.my-photo {
+    margin-top: 40px;
+}
+
+.contacts-container,
+.tech-skills-container,
+.soft-skills-container {
+    margin: 48px 0 0 40px;
+}
+
+.sidebar-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #161d2a;
+    margin-bottom: 8px;
+}
