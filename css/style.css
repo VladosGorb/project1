@@ -22,15 +22,57 @@ body {
 /*About me*/
 
 .my-profession {
-    padding-bottom: 180px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin: 0 0 18px 0;
 }
 
-h2 {
-    font-size: 35px;
+.my-name {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+    margin: 0 0 28px 0;
 }
 
-.project-item {
-    background-color: yellow;
+.my-description {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    width: 525px;
+}
+
+.about-me-container {
+    margin-bottom: 64px;
+}
+
+/*Work experience*/
+
+.work-experience-container {
+    margin-bottom: 44px;
+}
+
+.work-experience-position {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    margin: 0;
+}
+
+.work-experience-place {
+    margin-bottom: 16px;
+}
+
+.work-experience-company {
+    color: #6D9BF5;
 }
 
 /*Sidebar*/
@@ -42,6 +84,7 @@ h2 {
 
 .my-photo {
     margin-top: 40px;
+    margin-left: 20px;
 }
 
 .contacts-container,
